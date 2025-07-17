@@ -1,0 +1,47 @@
+[
+    {
+        "id": "0037bab0",
+        "client_id": "5fb388bf",
+        "products": [
+            {
+                "product": {
+                    "Name": "ذرة ارجنتيني",
+                    "Price": 12.5,
+                    "Quantity": 19900
+                },
+                "quantity": 100,
+                "final_price": 14.0
+            },
+            {
+                "product": {
+                    "Name": "ردة",
+                    "Price": 13.5,
+                    "Quantity": 9900
+                },
+                "quantity": 100,
+                "final_price": 14.0
+            }
+        ],
+        "total_price": 2800.0,
+        "cash_paid_now": 2800.0,
+        "date": "2025-07-16 14:09:20"
+    },
+    {
+        "id": "9a1c097b",
+        "client_id": "5fb388bf",
+        "products": [
+            {
+                "product": {
+                    "Name": "ذرة ارجنتيني",
+                    "Price": 12.5,
+                    "Quantity": 19880
+                },
+                "quantity": 20,
+                "final_price": 15.0
+            }
+        ],
+        "total_price": 300.0,
+        "cash_paid_now": 300.0,
+        "date": "2025-07-16 19:56:45"
+    }
+]
